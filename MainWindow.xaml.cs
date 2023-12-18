@@ -88,11 +88,8 @@ namespace BRToolBox
         public MainWindow()
         {
             InitializeComponent();
-            //更改
-            if (1)
-            {
 
-            }
+            //11111111
             // attach window managment functions
             Closed += MainWindow_Closed;
             Loaded += MainWindow_Loaded;

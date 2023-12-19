@@ -90,6 +90,7 @@ namespace BRToolBox
             InitializeComponent();
 
             //11111111
+            //master
             // attach window managment functions
             Closed += MainWindow_Closed;
             Loaded += MainWindow_Loaded;

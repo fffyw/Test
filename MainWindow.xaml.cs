@@ -92,6 +92,7 @@ namespace BRToolBox
             //11111111
             //2222
             //4444444
+            //Test
             // attach window managment functions
             Closed += MainWindow_Closed;
             Loaded += MainWindow_Loaded;

@@ -60,7 +60,7 @@
       <HintPath>packages\HelixToolkit.Wpf.SharpDX.2.24.0\lib\net462\HelixToolkit.Wpf.SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="IRW.LOG">
-      <HintPath>..\..\WeldingTool\bin\Debug\net5.0-windows\DLL\IRW.LOG.dll</HintPath>
+      <HintPath>..\..\..\..\yanwei.fan\source\repos\WeldSeamSample\WeldSeamSample\bin\Debug\IRW.LOG.dll</HintPath>
     </Reference>
     <Reference Include="MathNet.Numerics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\MathNet.Numerics.5.0.0\lib\net48\MathNet.Numerics.dll</HintPath>
@@ -231,7 +231,7 @@
     </Reference>
     <Reference Include="Xbim.Presentation, Version=5.1.0.0, Culture=neutral, PublicKeyToken=11e3655e576ec5a9, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Output\Debug\net472\Xbim.Presentation.dll</HintPath>
+      <HintPath>packages\Xbim.WindowsUI.5.1.228\lib\net472\Xbim.Presentation.dll</HintPath>
     </Reference>
     <Reference Include="Xbim.Tessellator, Version=5.1.0.0, Culture=neutral, PublicKeyToken=11e3655e576ec5a9, processorArchitecture=MSIL">
       <HintPath>packages\Xbim.Tessellator.5.1.341\lib\net47\Xbim.Tessellator.dll</HintPath>
